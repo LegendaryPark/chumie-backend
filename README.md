@@ -61,5 +61,3 @@ This launches the backend service, ready to handle requests from the Chumie Fron
 ## Enjoy the Word Memory Game!
 
 With the backend and frontend up and running, you're all set to dive into the Chumie word memory game. Explore, play, and enhance your word memory skills!
-
-뤼튼 사용하러 가기 > https://agent.wrtn.ai/5xb91l
